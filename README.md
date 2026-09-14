@@ -26,14 +26,14 @@ Each question includes a **clear and working solution** to help learners underst
 
 The questions are organized topic-wise for easy learning:
 
-* 📌 Basics
-* 📌 Strings
-* 📌 Lists & Tuples
-* 📌 Dictionary & Sets
-* 📌 Conditional Statements
-* 📌 Loops
-* 📌 Functions
-* 📌 File Handling
+* Basics
+* Strings
+* Lists & Tuples
+* Dictionary & Sets
+* Conditional Statements
+* Loops
+* Functions
+* File Handling
 
 ---
 
@@ -76,6 +76,6 @@ The questions are organized topic-wise for easy learning:
 
 **Dev Kumar Ray (Adarsh Yadav)**
 
-## ⭐ Support
+## Support
 
 If you find this repository helpful, consider giving it a ⭐ on GitHub!
