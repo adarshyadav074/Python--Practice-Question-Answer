@@ -1,10 +1,10 @@
-# 🐍 Python Practice Questions & Answers (100 Problems)
+# Python Practice Questions & Answers
 
 A curated collection of **100 Python practice questions with solutions** designed to strengthen programming fundamentals, logic building, and problem-solving skills.
 
 ---
 
-## 🚀 About This Repository
+## About This Repository
 
 This repository contains a wide range of Python problems covering:
 
@@ -22,7 +22,7 @@ Each question includes a **clear and working solution** to help learners underst
 
 ---
 
-## 📂 Structure
+## Structure
 
 The questions are organized topic-wise for easy learning:
 
@@ -37,7 +37,7 @@ The questions are organized topic-wise for easy learning:
 
 ---
 
-## 🧠 Purpose
+## Purpose
 
 * Improve coding logic
 * Practice real interview-style questions
@@ -46,7 +46,7 @@ The questions are organized topic-wise for easy learning:
 
 ---
 
-## ▶️ How to Use
+## How to Use
 
 1. Pick a question
 2. Try solving it on your own
@@ -56,7 +56,7 @@ The questions are organized topic-wise for easy learning:
 
 ---
 
-## 💡 Tips
+## Tips
 
 * Don’t copy code — try first
 * Focus on logic, not syntax
@@ -64,7 +64,7 @@ The questions are organized topic-wise for easy learning:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 * Add more advanced problems
 * Add explanations for each solution
@@ -72,11 +72,9 @@ The questions are organized topic-wise for easy learning:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Dev Kumar Ray (Adarsh Yadav)**
-
----
 
 ## ⭐ Support
 
